@@ -1,7 +1,7 @@
 import openai
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'add openai api key'
 
 def generate_recipe(ingredients):
     if not ingredients:
