@@ -32,4 +32,3 @@ The Recipe Generator project utilizes OpenAI's GPT-3 API to generate cooking rec
 ## References
 - [OpenAI's GPT-3 API Documentation](https://openai.com/)
 - [Learn more about natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
-[Building-a-Recipe-Generator (1).pptx](https://github.com/Yugal-kosamshile/Recipe_Generator/files/15047517/Building-a-Recipe-Generator.1.pptx)
